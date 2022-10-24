@@ -12,7 +12,17 @@ _Juicy-Worlds is a hangout place for millennials who are looking for reference a
 
 ---
 
-## Getting Started
+## 𓆙 Table of Contents
+
+- [About Juicy Worlds](#about-Juicy-Worlds)
+  - [Understanding the concept of juicy worlds](#**What-is-JuicyWorlds?**)
+- [Table of Contents](#𓆙-Table-of-Contents)
+- [Getting Started](#𓆙-Getting-Started)
+- [Related Project](#𓆙-Related-Project)
+- [Screenshots](#𓆙-Screenshots)
+
+
+## 𓆙 Getting Started
 1. Installation 
 ```
 $ git clone https://github.com/salzteam/JuicyWorlds-FE.git
@@ -21,12 +31,12 @@ $ git clone https://github.com/salzteam/JuicyWorlds-FE.git
 3. Install [Live Server Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 4. Right click _home.html_ then choose **Open With Live Server**
 
-## Related Project
+## 𓆙 Related Project
 
 - [`Frontend-JuicyWorlds`](https://github.com/salzteam/JuicyWorlds-FE)
 - [`Backend-JuicyWorlds`](https://github.com/salzteam/Juicy-Worlds)
 
-## Screenshots
+## 𓆙 Screenshots
 
 1. Home
 2. Login
