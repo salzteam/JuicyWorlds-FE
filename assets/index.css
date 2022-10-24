@@ -1276,4 +1276,10 @@ hr:not([size]) {
         width: 60%;
         height: 100%;
     }
+
+    .set-width {
+        width: 45%;
+        margin-left: -36%;
+        height: 12px;
+    }
 }
