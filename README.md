@@ -50,7 +50,7 @@ $ git clone https://github.com/salzteam/JuicyWorlds-FE.git
 
 <p align="center" display='flex'>
    <div align="center">
-   <image src= 'assets\images\ss-web\ss_home-page.png' width=100%/>
+   <image src= 'assets\images\ss-web\home-page.png' width=100%/>
     <image src='assets\images\ss-web\ss_login-page.png' width=100%/>
     <image src='assets\images\ss-web\ss_product-page.png' width=100%/>
     <image src='assets\images\ss-web\ss_profile-page.png' width=100%/>
