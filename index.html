@@ -22,24 +22,32 @@
     <body>
         <nav class="nav-pc">
             <div class="navBrand">
-                <a href="/index.html">
+                <a href="/index.html aria-label="home"">
                     <img src="/assets/images/logo.WebP" alt="">
                 </a>
                 <p>Juicy Worlds</p>
             </div>
             <div class="navList">
                 <ul>
-                    <a href="/index.html">
-                        <li class="home">Home</li>
+                    <a href="/index.html" aria-label="home">
+                        <ul>
+                            <li class="home">Home</li>
+                        </ul>
                     </a>
-                    <a href="/product/product.html">
-                        <li class="nav-text">Product</li>
+                    <a href="/product/product.html" aria-label="product">
+                        <ul>
+                            <li class="nav-text">Product</li>
+                        </ul>
                     </a>
-                    <a href="#">
-                        <li class="nav-text">Your Cart</li>
+                    <a href="#" aria-label="cart">
+                        <ul>
+                            <li class="nav-text">Your Cart</li>
+                        </ul>
                     </a>
-                    <a href="#">
-                        <li class="nav-text">History</li>
+                    <a href="#" aria-label="history">
+                        <ul>
+                            <li class="nav-text">History</li>
+                        </ul>
                     </a>
                 </ul>
             </div>
@@ -212,7 +220,7 @@
                     taste of
                     poeple’s favorite. It
                     might be yours too!</P>
-                <div class="row justify-content-center style-mobile"">
+                <div class="row justify-content-around style-mobile">
                     <div class="col-4 menu-list-favorite">
                         <img class="img-product"
                             src="/assets/images/favo1.png"
@@ -450,7 +458,8 @@
                 </div>
                 <div class="row-content next-comment">
                     <aside class="col-6 left-list">
-                        <img src="/assets/images/list.png" alt="">
+                        <img class="set-width" src="/assets/images/list.png"
+                            alt="">
                     </aside>
                     <aside class="col-6 right-list">
                         <img class="img-left" src="/assets/images/left.png"
