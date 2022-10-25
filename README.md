@@ -18,9 +18,9 @@ _Juicy-Worlds is a hangout place for millennials who are looking for reference a
   - [Understanding the concept of juicy worlds](#**What-is-JuicyWorlds?**)
 - [Table of Contents](#𓆙-Table-of-Contents)
 - [Getting Started](#𓆙-Getting-Started)
-- [Related Project](#𓆙-Related-Project)
-- [Deploy Site](#𓆙-Deploy-netlify)
 - [Screenshots](#𓆙-Screenshots)
+- [Deploy Site](#𓆙-Deploy-netlify)
+- [Related Project](#𓆙-Related-Project)
 
 
 ## 𓆙 Getting Started
@@ -32,22 +32,21 @@ $ git clone https://github.com/salzteam/JuicyWorlds-FE.git
 3. Install [Live Server Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 4. Right click _home.html_ then choose **Open With Live Server**
 
-## 𓆙 Related Project
-
-- [`Frontend-JuicyWorlds`](https://github.com/salzteam/JuicyWorlds-FE)
-- [`Backend-JuicyWorlds`](https://github.com/salzteam/Juicy-Worlds)
-
-## 𓆙 Deploy Site
-- https://juicyworlds.netlify.app/
-
 ## 𓆙 Screenshots
 
 <p align="center" display='flex'>
    <div align="center">
-   <image src= 'assets\images\ss-web\home-page.png' width=100%/>
-    <image src='assets\images\ss-web\ss_login-page.png' width=100%/>
-    <image src='assets\images\ss-web\ss_product-page.png' width=100%/>
-    <image src='assets\images\ss-web\ss_profile-page.png' width=100%/>
-    <image src='assets\images\ss-web\ss_register-page.png' width=100%/>
+   <image src= 'assets\images\ss-web\home-page.png' width=50%/>
+    <image src='assets\images\ss-web\ss_login-page.png' width=50%/>
+    <image src='assets\images\ss-web\ss_product-page.png' width=50%/>
+    <image src='assets\images\ss-web\ss_profile-page.png' width=50%/>
+    <image src='assets\images\ss-web\ss_register-page.png' width=50%/>
   </div>
 </p>
+## 𓆙 Deploy Site
+- https://juicyworlds.netlify.app/
+- 
+## 𓆙 Related Project
+
+- [`Frontend-JuicyWorlds`](https://github.com/salzteam/JuicyWorlds-FE)
+- [`Backend-JuicyWorlds`](https://github.com/salzteam/Juicy-Worlds)
