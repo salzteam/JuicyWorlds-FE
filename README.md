@@ -43,10 +43,11 @@ $ git clone https://github.com/salzteam/JuicyWorlds-FE.git
     <image src='assets\images\ss-web\ss_register-page.png' width=50%/>
   </div>
 </p>
+
 ## 𓆙 Deploy Site
 - https://juicyworlds.netlify.app/
-- 
-## 𓆙 Related Project
 
+
+## 𓆙 Related Project
 - [`Frontend-JuicyWorlds`](https://github.com/salzteam/JuicyWorlds-FE)
 - [`Backend-JuicyWorlds`](https://github.com/salzteam/Juicy-Worlds)
