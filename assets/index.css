@@ -467,6 +467,11 @@ hr:not([size]) {
     padding-left: 70px;
 }
 
+.img-left-favorite,
+.img-right-favorite {
+    display: none;
+}
+
 .favorite-list {
     background-color: #F8F8F8;
     padding-top: 70px;
@@ -1281,5 +1286,34 @@ hr:not([size]) {
         width: 45%;
         margin-left: -36%;
         height: 12px;
+    }
+
+    .menu-list-favorite {
+        display: none;
+    }
+
+    .menu-list-favorite-last {
+        position: relative;
+    }
+
+    .img-left-favorite {
+        margin-top: 176%;
+        margin-left: -1%;
+        position: absolute;
+        width: 42px;
+        height: 41px;
+    }
+
+    .img-right-favorite {
+        margin-top: 170%;
+        margin-left: 73%;
+        position: absolute;
+        width: 101px;
+        height: 100px;
+    }
+
+    .img-left-favorite,
+    .img-right-favorite {
+        display: block;
     }
 }
