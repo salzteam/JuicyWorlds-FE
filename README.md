@@ -42,12 +42,6 @@ $ git clone https://github.com/salzteam/JuicyWorlds-FE.git
 
 ## 𓆙 Screenshots
 
-1. Home
-2. Login
-3. Product
-4. Profile
-5. Sign Up
-
 <p align="center" display='flex'>
    <div align="center">
    <image src= 'assets\images\ss-web\home-page.png' width=100%/>
